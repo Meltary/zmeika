@@ -1,0 +1,13 @@
+G:\MyProgramm\программаХ\Programm\Programm\bin\Release\Programm.exe.config
+G:\MyProgramm\программаХ\Programm\Programm\bin\Release\Programm.exe
+G:\MyProgramm\программаХ\Programm\Programm\bin\Release\Programm.pdb
+G:\MyProgramm\программаХ\Programm\Programm\obj\Release\MainWindow.baml
+G:\MyProgramm\программаХ\Programm\Programm\obj\Release\MainWindow.g.cs
+G:\MyProgramm\программаХ\Programm\Programm\obj\Release\App.g.cs
+G:\MyProgramm\программаХ\Programm\Programm\obj\Release\Programm_MarkupCompile.cache
+G:\MyProgramm\программаХ\Programm\Programm\obj\Release\Programm.g.resources
+G:\MyProgramm\программаХ\Programm\Programm\obj\Release\Programm.Properties.Resources.resources
+G:\MyProgramm\программаХ\Programm\Programm\obj\Release\Programm.csproj.GenerateResource.Cache
+G:\MyProgramm\программаХ\Programm\Programm\obj\Release\Programm.exe
+G:\MyProgramm\программаХ\Programm\Programm\obj\Release\Programm.pdb
+G:\MyProgramm\программаХ\Programm\Programm\obj\Release\Programm.csprojResolveAssemblyReference.cache
